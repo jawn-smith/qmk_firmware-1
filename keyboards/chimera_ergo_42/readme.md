@@ -1,6 +1,6 @@
-# Chimera Ergo
+# Chimera Ergo 42
 
-![Chimera Ergo](https://imgur.com/AA6ycMQ.jpg)
+![Chimera Ergo 42](https://imgur.com/Yasp0s6)
 
 A split wireless 40% ergonomic keyboard 
 
