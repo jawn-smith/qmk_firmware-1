@@ -9,6 +9,8 @@ void led_init(void) {
 	PORTD |= (1<<1);
 	DDRF  |= (1<<4) | (1<<5);
 	PORTF |= (1<<4) | (1<<5);
+	DDRB  |= 00000001;
+	PORTB |= 00000001;
 }
 
 
